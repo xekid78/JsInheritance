@@ -11,7 +11,7 @@ Boxクラスを親クラスとしてJewelryBoxクラスを子クラスにして�
 
     class Box {
         constructor(item) {
-            this.item = item
+            this.item = item;
         }
 
         open() {
