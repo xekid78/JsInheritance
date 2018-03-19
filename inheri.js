@@ -3,7 +3,7 @@
 
     class Box {
         constructor(item) {
-            this.item = item
+            this.item = item;
         }
 
         open() {
