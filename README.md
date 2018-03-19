@@ -1,0 +1,2 @@
+# JsInheritance
+継承
